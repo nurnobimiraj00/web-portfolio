@@ -7,3 +7,13 @@ h1{
 .komola{
     color: orange;
 }
+.helf{
+    width: 40%;
+    float: left;
+}
+.helf img{
+    width: 100%;
+    border-radius: 900px;
+    margin: 5px 1px 5px 200px;
+    height: 400;
+}
